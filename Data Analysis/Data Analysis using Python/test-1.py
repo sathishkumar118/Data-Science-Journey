@@ -7,3 +7,6 @@ inp = 5,4,5, [8,6,7]
 print(inp)
 
 import numpy as np
+
+rand_int = np.random.rand(4,1)
+print(rand_int)
